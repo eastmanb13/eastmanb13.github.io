@@ -9,17 +9,19 @@ execute:
   freeze: auto
 
 website:
-  title: "My Website"
-  repo-url: https://github.com/nceas-learning-hub/2026_delta_week3
+  title: "Brooke Eastman"
+  repo-url: https://eastmanb13.github.io/
   repo-actions: [issue]
   navbar:
     background: primary
     left:
       - text: "Home"
         href: index.qmd
-    right: 
+    right:
+      - text: "About"
+        href: about.qmd 
       - icon: github
-        href: https://github.com/nceas-learning-hub/2026_delta_week3
+        href: https://github.com/eastmanb13
   page-footer: 
     center: "Copyright &copy; 2026, Delta Stewardship Council"
     background: secondary
