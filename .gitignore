@@ -48,13 +48,16 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Quarto folders
+# Quarto stuff
 /.quarto/
 docs/
+**/*.quarto_ipynb
 
 # R Project
 *.Rproj
 
 # Mac files
 .DS_Store
+
+
 
